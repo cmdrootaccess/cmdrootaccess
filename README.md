@@ -1,4 +1,8 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=cmdrootaccess&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 ### Hi there 👋
+
+> I am a Software Engineer. I am mainly focusing on mobile development, web development and AI.
 
 <!--
 **cmdrootaccess/cmdrootaccess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
